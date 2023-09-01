@@ -1,8 +1,7 @@
 # Личный проект «Седона»
 
-* Студент: [Дмитрий Мазаев](https://up.htmlacademy.ru/htmlcss/30/user/1704471).
-* Наставник: Антон Леонов.
-* Наставник: [Anton Leonov] (https://htmlacademy.ru/profile/id101137).
+* Студент: [](https://up.htmlacademy.ru/).
+* Наставник: [](https://htmlacademy.ru/)
 
 ---
 
@@ -19,7 +18,7 @@ _`.editorconfig`, `.gitattributes`, `.gitignore`, `Contributing.md`, `Readme.md`
 
 #### 2. Создайте форк
 
-[Откройте мастер-репозиторий](https://github.com/htmlacademy-htmlcss/1704471-sedona-30) и нажмите кнопку «Fork» в правом верхнем углу. Репозиторий из Академии скопируется в ваш аккаунт.
+[Откройте мастер-репозиторий](https://github.com/htmlacademy-htmlcss/2381535-sedona-1) и нажмите кнопку «Fork» в правом верхнем углу. Репозиторий из Академии скопируется в ваш аккаунт.
 
 <img width="769" alt="" src="https://user-images.githubusercontent.com/10909/29037949-67a635d6-7bae-11e7-9f2f-1a48fde231b9.jpg">
 
